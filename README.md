@@ -25,9 +25,9 @@ Software Engineering is something that found me and became my passion. Always up
 - 🚀 &nbsp; I’m currently learning about Cloud computation and automated deployment, Networking...
 - 👨🏻‍💻 &nbsp; Most of my projects are private (owned by clients 🥵) but my own stuff are all public on [Github](https://github.com/chakirouAlabani).
 - 💬 &nbsp; I am willing to write blogs & share all I know about computer science, but don't know where to start 😵‍💫!
-- I have changed working environment (new country 👽); looking forward for integration.
+- 😵‍💫 I have changed working environment (new country 👽); looking forward for integration.
 - 👾 &nbsp; Fun fact: Everything is fun about me 🤤.
-- 📫 &nbsp; Reach me: chakirou.pro@gmail.com
+- 📫 &nbsp; Reach me or ask for my curriculum : chakirou.pro@gmail.com
 
 
 ### Languages and Tools:
