@@ -1,4 +1,4 @@
-## Hi there 👋, I am chakirou Alabani -- A Software Engineer and Data Scientist to be 👨‍💻
+## Hi there <img src="assets/Hi.gif" width="30px" height="30px" />, I am chakirou Alabani -- A Software Engineer and Data Scientist to be 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-@chakirouAlabani-0e76a8?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/chakirou-sofware-engineer)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cahkirouAlabani.visitor-badge&color=0088cc)
