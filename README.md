@@ -43,8 +43,8 @@ Software Engineering is something that found me and became my passion. Always up
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" alt="python"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=48" alt="C"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" alt="java"></code> 
-<!-- <code><img height="35" src="" alt=""></code> 
-<code><img height="35" src="" alt=""></code>  -->
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png?size=48" alt="laravel"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png?size=48" alt="symfony"></code> 
 </code> 
 
 <!--
